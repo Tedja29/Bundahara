@@ -9,6 +9,6 @@ Fungsi Aplikasi: Aplikasi BundaHara berfungsi untuk mencatat pemasukan dan penge
 
 Aplikasi ini dibuat untuk memenuhi project akhir Mata Kuliah Pemrograman Mobile oleh Kelompok 10 [Program Studi S1 Pendidikan Teknologi Informasi 2023](https://pendidikan-ti.ft.unesa.ac.id) [Fakultas Teknik](https://ft.unesa.ac.id) [Universitas Negeri Surabaya](https://www.unesa.ac.id/) yang beranggotakan :
 
-AMALIYA IZZAH RAMADHANI (23050974079)
-BRIANT TEDJA MULYA (23050974087)
-AISYAH LINTANG ZAKIYYA ARBY (23050974095)
+1. AMALIYA IZZAH RAMADHANI (23050974079)
+2. BRIANT TEDJA MULYA (23050974087)
+3. AISYAH LINTANG ZAKIYYA ARBY (23050974095)
