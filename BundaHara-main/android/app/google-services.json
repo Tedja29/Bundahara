@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229689037563",
+    "project_id": "bundahara-a8ff6",
+    "storage_bucket": "bundahara-a8ff6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229689037563:android:d51a67fcd410d529a0965e",
+        "android_client_info": {
+          "package_name": "com.example.testing_bolo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdfEC5D5kgBC8sCsCAasG3erpBKX2N7mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
