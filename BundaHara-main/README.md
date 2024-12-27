@@ -1,6 +1,7 @@
 # BundaHara
 
-[https://github.com/Tedja29/Bundahara/issues/1#issue-2760456123](https://github.com/Tedja29/Bundahara/issues/1#issue-2760456123)
+![Poster](https://github.com/user-attachments/assets/2d6498a1-c6bc-4932-a3f6-810dc4389628)
+
 
 Nama Project: Pengembangan Aplikasi Manajemen Keuangan “BundaHara”
 Tujuan Aplikasi:
